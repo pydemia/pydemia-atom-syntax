@@ -1,5 +1,5 @@
 {
-  "name": "pydemia-cobalt-syntax",
+  "name": "pydemia-atom-syntax",
   "theme": "syntax",
   "version": "0.3.0",
   "description": "A revised version of `cobalt2-syntax` by wesbos, tested on python only.",
